@@ -47,7 +47,7 @@ As demais teclas e todos os atalhos com Ctrl (Ctrl+C, Ctrl+V, Ctrl+Z e similares
 
 ## Instalação
 
-1. Baixe o [`UKPTINT-instalador.zip`](UKPTINT-instalador.zip) e extraia numa pasta.
+1. Baixe o [`UKPTINT-instalador.zip`](https://github.com/rodrigocpaiva/k380-uk-ptbr/releases/latest/download/UKPTINT-instalador.zip) (também na página de [releases](https://github.com/rodrigocpaiva/k380-uk-ptbr/releases)) e extraia numa pasta.
 2. Execute o `setup.exe`. O instalador não tem assinatura digital, então o Windows pode exibir um aviso do SmartScreen. Para continuar, clique em "Mais informações" e depois em "Executar assim mesmo".
 3. Saia da sua conta do Windows e entre de novo, ou reinicie o computador.
 4. Abra **Configurações > Hora e idioma > Idioma e região > Português (Brasil) > Opções de idioma** e adicione o teclado **UK Intl PT-BR (acentos)**.
