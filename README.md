@@ -2,11 +2,19 @@
 
 Layout de teclado para Windows 10 e 11 feito para quem tem o **Logitech K380 com layout britânico (UK, ISO)** e escreve em português do Brasil.
 
-O K380 UK traz duas legendas em cada tecla: a do Windows à esquerda e a do Mac à direita. No Windows, nenhum layout pronto resolve bem esse teclado:
+![Logitech K380 com layout britânico](img/k380-uk.webp)
+
+## Por que este layout existe
+
+Uso este teclado no Mac e no Windows. No macOS ele funciona muito bem: o layout britânico do sistema segue as legendas impressas e os acentos saem sem esforço. No Windows foi outra história. Tive muitas dificuldades para usá-lo, porque nenhum layout padrão faz o K380 UK funcionar de um jeito consistente e previsível. Ou o símbolo digitado não era o que estava impresso na tecla, ou os acentos do português ficavam escondidos ou faltando. Depois de muita tentativa e erro, resolvi criar este layout.
+
+O K380 UK traz duas legendas em cada tecla: a do Windows à esquerda e a do Mac à direita. No Windows, os layouts disponíveis ficam assim:
 
 - **Reino Unido:** segue a legenda Windows, mas não tem acentos práticos. ã, õ, â, ê e ô ficam de fora.
 - **Reino Unido Estendido:** os acentos ficam escondidos no AltGr.
 - **ABNT2 ou US-Internacional:** quase nenhum símbolo bate com o que está impresso nas teclas.
+
+## O que o UKPTINT faz
 
 O UKPTINT segue a **legenda Mac** impressa no K380 (@ no Shift+2, " no Shift+apóstrofo, \ ao lado do Enter, crase e til na tecla ao lado do Shift esquerdo). Também acrescenta teclas mortas para todos os acentos do português: primeiro o acento, depois a letra. Quem alterna entre Mac e Windows com o mesmo K380 passa a digitar igual nos dois.
 
